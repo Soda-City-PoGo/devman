@@ -44,3 +44,18 @@ make sure bot has admin access and invite it to your server.
 `brew unlink ideviceinstaller && brew link ideviceinstaller`
 
 `sudo chmod -R 777 /var/db/lockdown/`
+
+After installed edit deviceM.py
+
+enter bot token on
+
+`TOKEN = 'BOT_TOKEN'`
+
+then list your devices here
+
+```@client.event
+async def on_message(message):
+    devices={'iphone1':'UUID',
+			'iphone2':'UUID'}```
+
+
