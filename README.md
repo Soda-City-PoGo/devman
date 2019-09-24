@@ -1,5 +1,7 @@
 # devman
-this is a bot to control devices thru discord, using **USB only** atm, wifi support soon!
+this is a bot to control devices thru discord, using **USB connected devices only** atm, wifi support soon!
+
+https://github.com/libimobiledevice/libimobiledevice/issues/845
 
 
 I did not make this, i found it on discord and put it on github for others to use.
