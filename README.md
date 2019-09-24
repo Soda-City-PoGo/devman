@@ -62,4 +62,8 @@ async def on_message(message):
 
 you can also add a listen channel to restrict access if you want.
 
+##### Start the bot #####
+
+`python3 deviceM.py`
+
 
