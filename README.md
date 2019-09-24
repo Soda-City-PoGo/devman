@@ -47,7 +47,9 @@ make sure bot has admin access and invite it to your server.
 
 After installed edit deviceM.py
 
-enter bot token on
+enter bot token on line 7
+
+replace `BOT_TOKEN` with your token.
 
 `TOKEN = 'BOT_TOKEN'`
 
