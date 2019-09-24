@@ -13,20 +13,20 @@ make sure bot has admin access and invite it to your server.
 
 ############## INSTRUCTIONS to install discord py for python 3.7 ############
 
-```python3 -m pip install discord.py==0.16.12
-python3 -m pip install -U https://github.com/Rapptz/discord.py/archive/async.zip#egg=discord.py[voice]
-pip3 install --upgrade aiohttp
-pip3 install --upgrade websockets```
+`python3 -m pip install discord.py==0.16.12`
+`python3 -m pip install -U https://github.com/Rapptz/discord.py/archive/async.zip#egg=discord.py[voice]`
+`pip3 install --upgrade aiohttp`
+`pip3 install --upgrade websockets`
 
 ############## INSTRUCTIONS to install libmobiledevice ############
-```brew update
-brew uninstall --ignore-dependencies libimobiledevice
-brew uninstall --ignore-dependencies usbmuxd
-brew install --HEAD usbmuxd
-brew unlink usbmuxd
-brew link usbmuxd
-brew install --HEAD libimobiledevice
-brew unlink libimobiledevice && brew link libimobiledevice
-brew install --HEAD  ideviceinstaller
-brew unlink ideviceinstaller && brew link ideviceinstaller
-sudo chmod -R 777 /var/db/lockdown/```
+`brew update`
+`brew uninstall --ignore-dependencies libimobiledevice`
+`brew uninstall --ignore-dependencies usbmuxd`
+`brew install --HEAD usbmuxd`
+`brew unlink usbmuxd`
+`brew link usbmuxd`
+`brew install --HEAD libimobiledevice`
+`brew unlink libimobiledevice && brew link libimobiledevice`
+`brew install --HEAD  ideviceinstaller`
+`brew unlink ideviceinstaller && brew link ideviceinstaller`
+`sudo chmod -R 777 /var/db/lockdown/`
