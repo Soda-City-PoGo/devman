@@ -19,7 +19,7 @@ clone this to the pc/vm that phones are running on
 then `cd devman`
 
 
-############## INSTRUCTIONS to install discord py for python 3.7 ############
+**############## INSTRUCTIONS to install discord py for python 3.7 ############**
 
 `python3 -m pip install discord.py==0.16.12`
 
@@ -29,7 +29,7 @@ then `cd devman`
 
 `pip3 install --upgrade websockets`
 
-############## INSTRUCTIONS to install libmobiledevice ############
+**############## INSTRUCTIONS to install libmobiledevice ############**
 
 `brew update`
 
@@ -53,7 +53,7 @@ then `cd devman`
 
 `sudo chmod -R 777 /var/db/lockdown/`
 
-After installed edit deviceM.py
+**After installed edit deviceM.py**
 
 enter bot token on line 7
 
