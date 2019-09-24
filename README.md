@@ -60,4 +60,6 @@ async def on_message(message):
     devices={'iphone1':'UUID',
              'iphone2':'UUID'}
 
+you can also add a listen channel to restrict access if you want.
+
 
