@@ -58,6 +58,6 @@ then list your devices here
 ```@client.event
 async def on_message(message):
     devices={'iphone1':'UUID',
-             'iphone2':'UUID'}```
+             'iphone2':'UUID'}
 
 
