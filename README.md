@@ -70,6 +70,7 @@ async def on_message(message):
              'iphone2':'UUID'`}
 
 you can also add a listen channel to restrict access if you want.
+Save the edits you made then you should be ready to launch bot if you completed all the steps above.
 
 ##### Start the bot #####
 
