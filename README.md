@@ -1,12 +1,13 @@
 # devman
+
+**I did not make this, i found it on discord and put it on github for others to use.**
+
 this is a bot to control devices thru discord, using **USB connected devices only**!!! 
 
 wifi support soon!
 https://github.com/libimobiledevice/libimobiledevice
 https://github.com/libimobiledevice/libimobiledevice/issues/845
 
-
-I did not make this, i found it on discord and put it on github for others to use.
 
 Create a discord bot here -> https://discordapp.com/developers/applications/me
 
