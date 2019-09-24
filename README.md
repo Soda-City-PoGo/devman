@@ -8,11 +8,15 @@ https://github.com/libimobiledevice/libimobiledevice/issues/845
 
 I did not make this, i found it on discord and put it on github for others to use.
 
-clone this to the pc/vm that phones are running on
-
 Create a discord bot here -> https://discordapp.com/developers/applications/me
 
-make sure bot has admin access and invite it to your server.
+once you have it setup in your portal, invite it to your server.
+
+clone this to the pc/vm that phones are running on
+
+`git clone https://github.com/Soda-City-PoGo/devman.git`
+
+then `cd devman`
 
 
 ############## INSTRUCTIONS to install discord py for python 3.7 ############
