@@ -1,6 +1,6 @@
 # devman
 
-**I did not make this, i found it on discord and put it on github for others to use.**
+**I did not make this, I found it on discord and put it on github for others to use.**
 
 this is a bot to control devices thru discord, using **USB connected devices only**!!! 
 
